@@ -1,0 +1,11 @@
+[{
+    "title": "Example Product",
+    "description": "This is an example product",
+    "code": "ABC123",
+    "price": 9.99,
+    "status": true,
+    "stock": 10,
+    "category": "Example Category",
+    "thumbnails": ["thumbnail1.jpg", "thumbnail2.jpg"],
+    "id": 1
+  }]
